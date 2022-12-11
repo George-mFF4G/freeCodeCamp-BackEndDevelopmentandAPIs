@@ -6,11 +6,12 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
-	},
+	}
+	,
+	"author":"George Morkos"
+	,
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	,
-	"author":"George Morkos"
 }
